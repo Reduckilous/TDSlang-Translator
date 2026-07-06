@@ -6,7 +6,7 @@
 
 # TDSlang-Translator
 A script that translate from English to TDSlang, the custom decorative language made for the game [TDS - Tower Defense Strategy](https://store.steampowered.com/app/2392280/TDS__Tower_Defense_Strategy/). 
-Python and any sort of IDE is required to use this script.
+Python and any sort of IDE (notepad will do) is required to use this script.
 
 
 ## Installation
@@ -14,7 +14,7 @@ Download the ```.zip``` file in Releases and extract it. Then open the script in
 
 <img style="margin: 0 auto" width="90%" height="auto" alt="image" src="https://github.com/user-attachments/assets/f9f24494-334b-4718-a245-be80faad2945" />
 
-After that the result image will be created in the directory as the script.
+After that run the script and the result image will be created in the directory as the script.
 
 
 <img width="50%" height="auto" alt="image" src="https://github.com/user-attachments/assets/24f8e816-04c1-41ea-96a0-0e3d0938cc71" />
