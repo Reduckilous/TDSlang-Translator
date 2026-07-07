@@ -20,7 +20,7 @@ After that run the script and the result image will be created in the same direc
 <img width="50%" height="auto" alt="image" src="https://github.com/user-attachments/assets/24f8e816-04c1-41ea-96a0-0e3d0938cc71" />
 
 The result will be in ```.bmp``` image file type, so you may need to use an online converter to convert it to png. 
-Editing and customizing the result image is recommended to be done using any pixel art tools, such as [Pixilart](https://www.pixilart.com/) or [Aseprite](https://www.aseprite.org/).
+Editing and customizing the result image is recommended to be done using any pixel art tools, such as [Pixilart](https://www.pixilart.com/) or [Aseprite](https://www.aseprite.org/), which can also directly open the ```.bmp``` file as well. 
 
 
 ## Licence & Credits
