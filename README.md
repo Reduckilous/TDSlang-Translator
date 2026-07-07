@@ -14,13 +14,13 @@ Download the ```.zip``` file in Releases and extract it. Then open the script in
 
 <img style="margin: 0 auto" width="90%" height="auto" alt="image" src="https://github.com/user-attachments/assets/f9f24494-334b-4718-a245-be80faad2945" />
 
-After that run the script and the result image will be created in the directory as the script.
+After that run the script and the result image will be created in the same directory as the script.
 
 
 <img width="50%" height="auto" alt="image" src="https://github.com/user-attachments/assets/24f8e816-04c1-41ea-96a0-0e3d0938cc71" />
 
 The result will be in ```.bmp``` image file type, so you may need to use an online converter to convert it to png. 
-Editing and customizing the result imagine is recommended to be done using any pixel art tools, such as [Pixilart](https://www.pixilart.com/) or [Aseprite](https://www.aseprite.org/).
+Editing and customizing the result image is recommended to be done using any pixel art tools, such as [Pixilart](https://www.pixilart.com/) or [Aseprite](https://www.aseprite.org/).
 
 
 ## Licence & Credits
